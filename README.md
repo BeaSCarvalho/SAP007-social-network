@@ -3,9 +3,9 @@
 
 ## Eu, Poesia é uma rede social para postar poesias.
 
-**Status do Projeto:** _Em Andamento_
+**Status do Projeto:** Finalizado
   
-**Deploy:** 
+**Deploy:** https://beascarvalho.github.io/SAP007-social-network/
 </div>
 
 ---
