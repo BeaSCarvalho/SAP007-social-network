@@ -16,18 +16,19 @@ export default () => {
 
     <ul id="list-developers" class="list-developers">Desenvolvido por: 
       <li>
-        <a class="name-developer" href="https://github.com/BeaSCarvalho">Beatriz de Sousa Carvalho
-          <img src="./img/icon-github.png" alt="logo github" class="icon-git"> 
+        <a class="name-developer" href="https://github.com/BeaSCarvalho">
+          Beatriz de Sousa Carvalho
+          <i class="fa-brands fa-github"></i> 
         </a>
       </li>
       <li>
         <a class="name-developer" href="https://github.com/MariaLuizaSantana">Maria Luiza Costa Santana
-          <img src="./img/icon-github.png" alt="logo github" class="icon-git"> 
+          <i class="fa-brands fa-github"></i> 
         </a>
       </li>
       <li>
         <a class="name-developer" href="https://github.com/raelepereira">Raele Pereira
-          <img src="./img/icon-github.png" alt="logo github" class="icon-git"> 
+          <i class="fa-brands fa-github"></i> 
         </a>
       </li>
     </ul> 
