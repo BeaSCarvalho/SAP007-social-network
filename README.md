@@ -157,7 +157,7 @@ ser adaptados de acordo com o tamanho da tela do usuário.
   
   <td>
     <div align= "center">
-      <img alt="Raele Pereira" height="150" src="https://media-exp1.licdn.com/dms/image/C4D03AQFk_iaYzngkkg/profile-displayphoto-shrink_800_800/0/1649704776713?e=1656547200&v=beta&t=9xAY_61Jm1xlDdJ4b-85IdD3kNdnVMCahzl5WQC-SJI"> 
+      <img alt="Raele Pereira" height="150" src="https://avatars.githubusercontent.com/u/95094504?v=4"> 
     </div>
     <h3 align="center"><a href="https://github.com/raelepereira">Raele Pereira</a></h3>
     <h4 align="center">Projeto do Bootcamp da <em><a href="https://hub.laboratoria.la/br">Laboratoria</a></em></h4>
