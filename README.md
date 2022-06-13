@@ -17,8 +17,9 @@
 * [3. Critérios de Aceitação](#3-critérios-de-aceitação)
 * [4. Definição de Pronto](#4-definição-de-pronto)
 * [5. Protótipos](#5-protótipos)
-* [6. Tecnologias Utilizadas](#6-tecnologias-utilizadas)
-* [7. Autoras](#7-autoras)
+* [6. Produto Final](#6-produto-final)
+* [7. Tecnologias e Ferramentas Utilizadas](#7-tecnologias-e-ferramentas-utilizadas)
+* [8. Autoras](#8-autoras)
 
 ***
 
@@ -95,8 +96,6 @@ Ainda na página "Meu Perfil", em cada post realizado haverá um ícone de lixei
 O Eu, Poesia foi idealizado utilizando-se o conceito de Mobile First, isto é, foi pensado primeiro para dispositivos móveis, como o celular, para depois fazer as adaptações necessárias para o desktop. Para isso, durante o desenvolvimento do projeto foi aplicado responsividade para que o design e conteúdo da rede social possam
 ser adaptados de acordo com o tamanho da tela do usuário.
 
-- ### Protótipo de baixa fidelidade
-
 - ### Protótipo de alta fidelidade
 
   - #### _Mobile_
@@ -108,10 +107,14 @@ ser adaptados de acordo com o tamanho da tela do usuário.
   - #### _Desktop_
 
   <div>
-    <img alt="Protótipo Eu,Poesia desktop" src="/src/img/prototipo-desktop.gif">
+    <img alt="Protótipo Eu,Poesia desktop" src="/src/img/prototipo-desktop.gif" width=800>
   </div>
+  
+## 6. PRODUTO FINAL 
 
-## 6. TECNOLOGIAS UTILIZADAS
+  <img alt="Produto final" src="/src/img/gif-social-network.gif" width=800>
+
+## 7. TECNOLOGIAS E FERRAMENTAS UTILIZADAS
 
 - **Firebase**
   - **[Authentication](https://firebase.google.com/docs/auth?authuser=0&hl=pt)**
@@ -125,7 +128,7 @@ ser adaptados de acordo com o tamanho da tela do usuário.
 - Protótipos: **[Figma](https://www.figma.com/)**
 - Edições de imagem: **[Canva](https://www.canva.com/)**
 
-## 7. AUTORAS
+## 8. AUTORAS
 
 <table>
   <td>
